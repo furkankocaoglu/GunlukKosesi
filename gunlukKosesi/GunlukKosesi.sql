@@ -83,7 +83,7 @@ CREATE TABLE GunlukGoruntuleme
 	CONSTRAINT fk_gunlukgoruntuUye FOREIGN KEY(UyeID) REFERENCES Uyeler(ID)
 )
 GO
-CREATE TABLE YorumYanýtlar
+CREATE TABLE YorumYanitlar
 (
     ID int IDENTITY(1,1),      
     YorumID int,                 
@@ -113,3 +113,5 @@ CREATE TABLE OneCikanGunlukYazilari
 	CONSTRAINT fk_OneCikanGunlukYazigunluk FOREIGN KEY(GunlukID)REFERENCES Gunlukler(ID)    
 )
 GO
+
+DROP DATABASE Gunluk_KosesiDB
