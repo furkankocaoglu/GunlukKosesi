@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|c:\\users\\user\\documents\\github\\gunlukkosesi\\gunlukkosesi\\gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|c:\\users\\user\\documents\\github\\gunlukkosesi\\gunlukkosesi\\gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|solutionrelative:gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|solutionrelative:gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37FCDFA-E721-4348-8C20-1A37B17327D9}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37FCDFA-E721-4348-8C20-1A37B17327D9}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\gunlukkosesi\\yonetimgirisekrani\\yoneticidefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|solutionrelative:gunlukkosesi\\yonetimgirisekrani\\yoneticidefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|solutionrelative:gunlukkosesi\\yonetimgirisekrani\\girisekrani.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\gunlukkosesi\\yonetimgirisekrani\\yoneticimasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|solutionrelative:gunlukkosesi\\yonetimgirisekrani\\yoneticimasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37FCDFA-E721-4348-8C20-1A37B17327D9}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37FCDFA-E721-4348-8C20-1A37B17327D9}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDB0DBCB-DFE1-4C10-BA85-F10AE179CB0C}|GunlukKosesi\\GunlukKosesi.csproj|C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\gunlukkosesi\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "YoneticiDefault.aspx",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\GunlukKosesi\\YonetimGirisEkrani\\YoneticiDefault.aspx",
               "RelativeDocumentMoniker": "GunlukKosesi\\YonetimGirisEkrani\\YoneticiDefault.aspx",
@@ -50,31 +50,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "VeriModel.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\VeriErisimKatmani\\VeriModel.cs",
               "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModel.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\VeriErisimKatmani\\VeriModel.cs",
               "RelativeToolTip": "VeriErisimKatmani\\VeriModel.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwDcAAAANAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T00:44:32.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GirisEkrani.aspx.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx.cs",
               "RelativeDocumentMoniker": "GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx.cs",
               "RelativeToolTip": "GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAAANAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:42:42.991Z"
+              "WhenOpened": "2024-09-19T00:42:42.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GirisEkrani.aspx",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx",
               "RelativeDocumentMoniker": "GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx",
@@ -82,12 +83,11 @@
               "RelativeToolTip": "GunlukKosesi\\YonetimGirisEkrani\\GirisEkrani.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-19T00:41:08.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T00:41:08.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "YoneticiMasterPage.Master",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\GunlukKosesi\\gunlukKosesi\\GunlukKosesi\\YonetimGirisEkrani\\YoneticiMasterPage.Master",
               "RelativeDocumentMoniker": "GunlukKosesi\\YonetimGirisEkrani\\YoneticiMasterPage.Master",
