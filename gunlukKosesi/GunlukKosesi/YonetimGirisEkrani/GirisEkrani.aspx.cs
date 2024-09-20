@@ -32,7 +32,7 @@ namespace GunlukKosesi.YonetimGirisEkrani
                     else
                     {
                         pnl_error.Visible = true;
-                        lbl_errorMessage.Text = "E-posta, Kullanıcı Adı veya Şifre Hatası";
+                        lbl_errorMessage.Text = "E-posta veya Şifre Hatası";
                     }
 
                 }

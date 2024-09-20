@@ -114,4 +114,3 @@ CREATE TABLE OneCikanGunlukYazilari
 )
 GO
 
-DROP DATABASE Gunluk_KosesiDB

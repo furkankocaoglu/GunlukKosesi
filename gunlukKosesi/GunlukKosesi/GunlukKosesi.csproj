@@ -69,7 +69,10 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
+    <Content Include="YonetimGirisEkrani\CSS\GirisTasarim.css" />
     <Content Include="YonetimGirisEkrani\GirisEkrani.aspx" />
+    <Content Include="YonetimGirisEkrani\Resimler\gunluk-2 %281%29.jpeg" />
+    <Content Include="YonetimGirisEkrani\Resimler\gunluk.jpg" />
     <Content Include="YonetimGirisEkrani\YoneticiDefault.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -113,9 +116,7 @@
     </None>
     <Content Include="YonetimGirisEkrani\YoneticiMasterPage.Master" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="YonetimGirisEkrani\CSS\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\VeriErisimKatmani\VeriErisimKatmani.csproj">
       <Project>{f37fcdfa-e721-4348-8c20-1a37b17327d9}</Project>

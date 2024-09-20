@@ -1,0 +1,93 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+ 
+}
+
+.tasiyici {
+    width: 100%;
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.girisekrani h1 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+}
+
+.satir {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+    color: #333;
+}
+
+.mailsifrekutu {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+    .mailsifrekutu:focus {
+        border-color: #007BFF;
+        outline: none;
+    }
+
+.loginbutton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+    .loginbutton:hover {
+        background-color: #0056b3;
+    }
+
+.errorpanel {
+    padding: 10px;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    color: #721c24;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.lgn, .hsp {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+    .lgn:hover, .hsp:hover {
+        text-decoration: underline;
+    }
+
+.cb_oturumAcikTut {
+    margin-right: 5px;
+}
+
+a {
+    font-size: 14px;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }

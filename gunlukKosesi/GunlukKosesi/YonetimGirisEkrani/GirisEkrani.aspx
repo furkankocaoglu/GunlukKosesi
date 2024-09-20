@@ -4,7 +4,8 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Giriş</title>
+    <link href="CSS/GirisTasarim.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -12,13 +13,14 @@
     <br />
     <div class="tasiyici" style="margin: 0 auto">
         <div class="girisekrani">
-            <h1>Yönetici Giriş</h1>
+            <h1>-Günlük Köşesi-</h1>
             <br />
+            <h1>Yönetici Giriş</h1>
             <asp:Panel ID="pnl_error" runat="server" CssClass="errorpanel" Visible="false">
-                <asp:Label ID="lbl_errorMessage" runat="server">E-posta veya Kullanıcı Adı Hatası!!!</asp:Label>
+                <asp:Label ID="lbl_errorMessage" runat="server">E-posta Hatası!</asp:Label>
             </asp:Panel>
             <div class="satir">
-                <label>E-posta veya Kullanıcı Adı</label><br />
+                <label>E-posta</label><br />
                 <asp:TextBox ID="tb_username" runat="server" CssClass="mailsifrekutu" placeholder="email@gmail.com" />
             </div>
             <div class="satir">
@@ -36,6 +38,7 @@
             </div>
             <div class="satir">
                 <a href="#" class="lgn">Giriş yapamıyor musun?</a><br />
+                <br />
                 <a href="#" class="hsp">Hesap oluştur</a>
             </div>
         </div>
