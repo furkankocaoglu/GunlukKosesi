@@ -4,16 +4,42 @@
 
 <html>
 <head runat="server">
-    <title>Günlük Köşesi</title>
+    <title>Günlük Köşesi - Yönetim Paneli</title>
+    <link href="CSS/YoneticiMasterPage.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
-        <div class>
-
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-            </asp:ContentPlaceHolder>
+        <div class="ustcubuk">
+            <div class="anaBaslik">
+                <h2>Günlük Köşesi </h2>
+                <h5>Yönetici Ekranı</h5>
+            </div>
+            <div class="kullaniciAlani">
+                <asp:Label ID="lbl_kullanici" runat="server" CssClass="kullanicieleman">Kullanıcı Adı(Yetki)</asp:Label>
+                <asp:LinkButton ID="lbtn_cikis" runat="server" CssClass="kullanicieleman" OnClick="lbtn_cikis_Click">Güvenli Çıkış</asp:LinkButton>
+            </div>
+            <div style="clear: both"></div>
+        </div>
+        <div>
+            <div class="anaMenu">
+                <a href="YoneticiDefault.aspx">Anasayfa</a>
+                <div class="cizgi"></div>
+                <a href="YoneticiDefault.aspx">Günlük Ekle</a>
+                <div class="cizgi"></div>
+                <a href="YoneticiDefault.aspx">Günlük Listele</a>
+                <div class="cizgi"></div>
+                <a href="YoneticiDefault.aspx">Üyeler</a>
+                <div class="cizgi"></div>
+                <a href="YoneticiDefault.aspx">Yorumlar</a>
+                <div class="cizgi"></div>
+                <a href="YoneticiDefault.aspx">Öne Çıkan Günlükler</a>
+            </div>
+            <div class="anaIcerik">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
         </div>
     </form>
 </body>

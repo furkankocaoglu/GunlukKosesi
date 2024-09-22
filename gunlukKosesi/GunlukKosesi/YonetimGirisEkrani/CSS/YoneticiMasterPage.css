@@ -1,0 +1,85 @@
+﻿body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.ustcubuk {
+    background-color: #2c3e50;
+    padding: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.anaBaslik h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.anaBaslik h5 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 300;
+    color: #bdc3c7;
+}
+
+.kullaniciAlani {
+    text-align: right;
+}
+
+.kullanicieleman {
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+    .kullanicieleman:hover {
+        color: #ecf0f1;
+        text-decoration: underline;
+    }
+
+.anaMenu {
+    background-color: #34495e;
+    padding: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+}
+
+    .anaMenu a {
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: 500;
+        padding: 10px 15px;
+        background-color: #2c3e50;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+
+        .anaMenu a:hover {
+            background-color: #1abc9c;
+        }
+
+.cizgi {
+    width: 1px;
+    height: 30px;
+    background-color: #bdc3c7;
+}
+
+.anaIcerik {
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.clear {
+    clear: both;
+}
