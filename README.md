@@ -1,1 +1,1 @@
-Web Yazılım Bitirme Projesidir
+
